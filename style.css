@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap');
+body{
+    background: black;
+    font-family: 'Open Sans', sans-serif;
+    color: #F9F8F8;
+}
+
+#foto{
+    width: 300px;
+}
+
+.links{
+    color: #F9F8F8;
+}
+
+h3, #sobre{
+    font-family: 'Montserrat', sans-serif; 
+}
+
+.foco{
+    font-size: 17px;
+}
+
+.critico{
+    font-size: 18px;
+}
+
+.autonomia{
+    font-size: 19px;
+}
+
+.empatia{
+    font-size: 20px;
+}
+
+.curiosidade{
+    font-size: 21px;
+}
